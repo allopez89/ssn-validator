@@ -2,9 +2,9 @@
 
 ## Docs
 
-- [User Manual](../docs/manual.md)
-- [Requirements](../docs/requirements.md)
-- [Test Cases](../docs/testcases.md)
+- [User Manual](./docs/manual.md)
+- [Requirements](./docs/requirements.md)
+- [Test Cases](./docs/testcases.md)
 
 ## Description
 
