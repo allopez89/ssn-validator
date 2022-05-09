@@ -5,6 +5,5 @@
 - On folder, open terminal, then:
   - ```
     cd ssn-validator
-    cd bin
-    dart run ssn-validator.dart
+    dart run
     ```
